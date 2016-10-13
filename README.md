@@ -6,3 +6,7 @@ This code is an example of how to generate a JWT in Python 3.4 using Google OAut
 PIP needed modules are:
 httplib2
 oauth2client
+
+Usage:
+Copy your JSON google credential key to "my_google_credential.json" and run the python code.
+This will print out the content of the JWT.
