@@ -8,5 +8,6 @@ httplib2
 oauth2client
 
 Usage:
+
 Copy your JSON google credential key to "my_google_credential.json" and run the python code.
 This will print out the content of the JWT.
